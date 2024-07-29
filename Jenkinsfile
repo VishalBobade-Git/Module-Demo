@@ -25,5 +25,4 @@ pipeline {
                 // Add your deploy steps here
             }
         }
-    }
-}
+    }}
